@@ -5,4 +5,4 @@ I'm currently working on some main projects: a todo-list app,  a real estate pla
 
 ## Get in Touch
 🔗 Connect with me on [LinkedIn]  (https://www.linkedin.com/in/aweda-ibrahim-ismaila-56a0a4290/)
- 📧 Email me at [obascoba007@gmaail.com]
+ 📧 Email me at [obascoba007@gmail.com]
